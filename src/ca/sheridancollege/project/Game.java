@@ -1,13 +1,12 @@
-/**
- * SYST 17796 Project Base code.
- * Students can modify and extend to implement their game.
- * Add your name as an author and the date!
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
+
 package ca.sheridancollege.project;
 
 /**
- * The class that models your game. You should create a more specific child of this class and instantiate the methods
- * given.
+ * 
  * @author Faaiz Ali Ahmad
  * @author Sambhav Arora
  * @author Akshat Sharma
